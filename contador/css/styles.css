@@ -1,0 +1,40 @@
+
+
+
+.countdown{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.countdown.oculta{
+    display: none;
+}
+
+.resultado2.oculta{
+display: none;
+}
+.resultado.oculta{
+    display: none;
+}
+
+
+.my-countdown{
+    display: none;
+}
+.my-countdown.mostrar{
+    display: flex;
+}
+.my-countdown.oculta{
+    display: none;
+}
+
+
+.segundoProducto{
+    display: none;
+}
+.segundoProducto.mostrar{
+    display: flex;
+}
+.segundoProducto.oculta{
+    display: none;
+}
